@@ -25,3 +25,7 @@
 #settings {
     object-position: right top;
 }
+
+#navbar {
+    padding: 10px;
+}
